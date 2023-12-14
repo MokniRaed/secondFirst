@@ -1,1 +1,3 @@
-Trying to learn git and github stuff
+
+adding second line 
+trying to understand some stuff
